@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericAlgorithm", "GenericAlgorithm\GenericAlgorithm.csproj", "{DCA12989-B42E-47F2-AADD-171E7B351B75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCA12989-B42E-47F2-AADD-171E7B351B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA12989-B42E-47F2-AADD-171E7B351B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA12989-B42E-47F2-AADD-171E7B351B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA12989-B42E-47F2-AADD-171E7B351B75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B25EF55-3B63-43D4-8F9A-9C0F179CF07D}
+	EndGlobalSection
+EndGlobal
